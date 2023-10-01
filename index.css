@@ -1,0 +1,79 @@
+body{
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+    background-image: url(image/sup1.jpg);
+    background-size: 850px;
+    background-repeat: repeat;
+}
+.form1{
+    width: 350px;
+    height: 420px;
+    border: 2px solid #FAC8C7 #AACFCE;
+    background-image: url(image/pexels-eberhard-grossgasteiger-2088203.jpg);
+    background-size: cover;
+}
+
+.head{
+    font-style: italic;
+    margin-top: 20px;
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.user{
+    text-align: center;
+}
+
+.password{
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.button button{
+    margin: 10px;
+    padding: 5px;
+    width: 60%;
+    background-color: #4CB5F9;
+    color: white;
+    border: 1px solid  #4CB5F9;
+    border-radius: 5%;
+    display: flex;
+   justify-content: center;
+}
+
+.or{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    display: flex;
+    justify-content: center;
+}
+
+.fpass{
+    display: flex;
+    justify-content: center;
+}
+
+.form2{
+    border: 2px solid #FAC8C7;
+    background-image: url(image/pexels-eberhard-grossgasteiger-2088203.jpg);
+    background-size: cover;
+}
+
+.sup{
+    text-align: center;
+}
